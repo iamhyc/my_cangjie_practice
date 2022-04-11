@@ -1,4 +1,5 @@
 
-func main() {
-    print("Hello World!")
+func main(): Int64 {
+    print("hello world\n")
+    return 0
 }
