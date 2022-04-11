@@ -1,5 +1,5 @@
 
 func main(): Int64 {
-    print("hello world\n")
-    return 0
+    print("你好 world "); println("in the same line.");
+    return 0;
 }
