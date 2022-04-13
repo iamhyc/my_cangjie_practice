@@ -9,7 +9,7 @@ func add(a: Int64, b!: Int64) : Int64 {
     a + b
 }
 
-// how to apply generic to varaible function?
+// how to apply generic to lambda function?
 // let sub = {a:T, b:T => a-b}
 
 func weird_callback_wrapper( fn: ()->Unit ) :Unit {
